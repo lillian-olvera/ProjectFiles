@@ -1,7 +1,7 @@
 """
 Author: Lillian Olvera
 Username: olverali01
-Email: lillian.olvera@darlingii.com
+Email: lillianolvera@namengineering.darlingii.com
 Description: 3D B-spline surface approximation.
 """
 
